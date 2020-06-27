@@ -2,7 +2,17 @@
 
 List of things I've bookmarked because I found them cool and useful.
 
+## Books
+
+### Development
+
+1. [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019)
+
 ## Library Modules
+
+#### Animation
+
+1. [react-spring](https://www.react-spring.io/docs/hooks/use-trail)
 
 #### Queue
 
@@ -18,6 +28,12 @@ List of things I've bookmarked because I found them cool and useful.
 
 ## Media Resources
 
+### Design / UI
+
+1. [humaaans](https://collectui.com)
+
+2. [UI Design Daily](https://uidesigndaily.com)
+
 ### Illustrations
 
 1. [humaaans](https://www.humaaans.com)
@@ -27,6 +43,14 @@ List of things I've bookmarked because I found them cool and useful.
 1. [A Tasty Treats Podcast for Web Developers | Syntax FM](https://syntax.fm)
 
 2. [Programming podcast with Minko Gechev](https://podcast.mgechev.com)
+
+## Tutorials
+
+### Development
+
+#### GraphQL
+
+1. [How to GraphQL](https://www.howtographql.com)
 
 ## Youtube Videos
 
