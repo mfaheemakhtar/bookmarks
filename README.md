@@ -10,9 +10,17 @@ List of things I've bookmarked because I found them cool and useful.
 
 ## Library Modules
 
+#### Analytics
+
+1. [Cube JS](https://cube.dev)
+
 #### Animation
 
 1. [react-spring](https://www.react-spring.io/docs/hooks/use-trail)
+
+#### Microservice
+
+1. [Molecular](https://moleculer.services)
 
 #### Queue
 
@@ -21,6 +29,12 @@ List of things I've bookmarked because I found them cool and useful.
 2. [queue](https://www.npmjs.com/package/queue)
 
 3. [better-queue](https://www.npmjs.com/package/better-queue)
+
+#### State Management
+
+1. [Easy Peasy](https://easy-peasy.now.sh)
+
+2. [Immer](https://github.com/immerjs/immer)
 
 #### CLI / ?
 
