@@ -2,6 +2,32 @@
 
 List of things I've bookmarked because I found them cool and useful.
 
+## Library Modules
+
+#### Queue
+
+1. [p-queue](https://www.npmjs.com/package/p-queue)
+
+2. [queue](https://www.npmjs.com/package/queue)
+
+3. [better-queue](https://www.npmjs.com/package/better-queue)
+
+#### CLI / ?
+
+1. [inquirer](https://www.npmjs.com/package/inquirer)
+
+## Media Resources
+
+### Illustrations
+
+1. [humaaans](https://www.humaaans.com)
+
+## Podcast
+
+1. [A Tasty Treats Podcast for Web Developers | Syntax FM](https://syntax.fm)
+
+2. [Programming podcast with Minko Gechev](https://podcast.mgechev.com)
+
 ## Youtube Videos
 
 ### Talks
