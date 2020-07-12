@@ -48,6 +48,8 @@ List of things I've bookmarked because I found them cool and useful.
 
 2. [UI Design Daily](https://uidesigndaily.com)
 
+3. [Undraw](https://undraw.co)
+
 ### Illustrations
 
 1. [humaaans](https://www.humaaans.com)
@@ -57,6 +59,16 @@ List of things I've bookmarked because I found them cool and useful.
 1. [A Tasty Treats Podcast for Web Developers | Syntax FM](https://syntax.fm)
 
 2. [Programming podcast with Minko Gechev](https://podcast.mgechev.com)
+
+## Tools
+
+### Development
+
+1. [Git Command Explorer](https://gitexplorer.com)
+
+2. [Animista](https://animista.net)
+
+
 
 ## Tutorials
 
